@@ -10,13 +10,13 @@ document.addEventListener('DOMContentLoaded', () => {
                 </a>
             </div>
             <div class="d-flex justify-content-start align-items-center gap-2 flex-wrap">
-                <a href="#" 
+                <a href="tr.html" 
                 class="btn btn-outline-primary d-flex align-items-center justify-content-center" 
                 style="gap: 5px; min-width: 100px; max-width: 140px; height: auto; padding: 5px 10px;">
                     <img src="./static/img/tr.png" alt="Türkçe" style="width: 20px; height: auto;">
                     <span style="font-size: 0.9rem;">Türkçe</span>
                 </a>
-                <a href="#" 
+                <a href="rus.html" 
                 class="btn btn-outline-primary d-flex align-items-center justify-content-center" 
                 style="gap: 5px; min-width: 100px; max-width: 140px; height: auto; padding: 5px 10px;">
                     <img src="./static/img/rus.png" alt="Русский" style="width: 20px; height: auto;">
